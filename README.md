@@ -4,4 +4,4 @@
 
 ### TECNOLOGIA: REACT.JS
 
-<img src="./assets/tela-de-login-img.png" alt="imagem de uma tela de login">
+<img src="./src/assets/tela-de-login-img.png" alt="imagem de uma tela de login">
